@@ -159,8 +159,6 @@
     <string name="preferences_interface_general_orientation_title">Auto-rotate screen</string>
     <string name="preferences_interface_general_lock_workspace_title">Lock homescreen</string>
     <string name="preferences_interface_general_lock_workspace_summary">Lock shortcuts and folders positions in the homescreen, dock and apps and widgets drawer</string>
-    <string name="preferences_interface_general_fullscreen_title">Fullscreen mode</string>
-    <string name="preferences_interface_general_fullscreen_summary">Hide the status bar to extend the homescreen</string>
     <string name="folder_empty_contents_title">No items found</string>
     <string name="preferences_interface_general_iconpack_title">Icon pack</string>
     <string name="preferences_interface_general_iconpack_summary">Icon packs replace the default application icon</string>
@@ -191,9 +189,9 @@
     <!-- The description of how to create a folder [CHAR_LIMIT=none] -->
     <string name="live_folder_cling_create_folder">Live folders allow app developers to create folders with dynamic content.
     Folder contents can be removed with a long press on a single entry. Unlike normal folders, items can only be added by
-    the appplication creating the folder</string>
+    the application creating the folder</string>
 
     <!-- Folder titles -->
     <string name="conversations_title">Conversations</string>
-    <string name="google_title">Google</string>
+    <string name="google_title" translatable="false">Google</string>
 </resources>
